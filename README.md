@@ -9,4 +9,4 @@ Pronound: he/him
  - Learning Python and Powershell to improve automation and efficiency. If you see ways to improve any code I happen to publish here, I'd love to hear more.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoatreich)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoatreich&theme=midnight-purple&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
