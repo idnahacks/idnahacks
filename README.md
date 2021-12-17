@@ -1,4 +1,4 @@
-# Andi Morris / thegoatreich
+# Andi Morris / idna
 @andimorris616  
 Experienced Cyber Security and network/system admin with experience in both defensive and offensive roles.  
 CTF enthusiast.  
@@ -9,4 +9,4 @@ Pronouns: he/him
  - Learning Python and Powershell to improve automation and efficiency. If you see ways to improve any code I happen to publish here, I'd love to hear more.
 
 
-![thegoatreich GitHub stats](https://github-readme-stats.vercel.app/api?username=thegoatreich&theme=midnight-purple&showicons=true)
+![idnahacks GitHub stats](https://github-readme-stats.vercel.app/api?username=idnahacks&theme=midnight-purple&showicons=true)
